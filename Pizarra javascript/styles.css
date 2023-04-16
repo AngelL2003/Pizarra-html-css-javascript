@@ -1,0 +1,15 @@
+body,
+html {
+  margin: 0px;
+  padding: 0px;
+}
+.container{
+  background-color: rgb(112, 164, 168);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+canvas{
+  background-color: rgb(255, 255, 255);
+}
